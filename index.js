@@ -10,5 +10,5 @@ function distanceFromHqInBlocks(x){
 }
 
 function distanceFromHqInFeet(y){
-    console.log(distanceFromHqInFeet(y))
+    console.log(distanceFromHqInBlocks(y))
 }
